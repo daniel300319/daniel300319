@@ -5,6 +5,7 @@
 I'm currently working on...
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-535B48?style=for-the-badge&logo=python&Color=F7C738)
+![Python](https://img.shields.io/badge/-Python-535B48?style=for-the-badge&logo=python&Color=F7D44F)
+![Jira](https://img.shields.io/badge/-Jira-535B48?style=for-the-badge&logo=jira&Color=2580F7)
 
 Follow me
