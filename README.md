@@ -16,3 +16,7 @@ I'm currently working on...
 ### Follow me
 [![Telegramm](https://img.shields.io/badge/-Telegram-535B48?style=for-the-badge&logo=telegram&logoColor=AFAFAF)](https://t.me/daniil_agurin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-535B48?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/daniil-agurin/)
+[![Facebook](https://img.shields.io/badge/-Facebook-535B48?style=for-the-badge&logo=facebook&logoColor=1773EA)](https://www.facebook.com/vetsanexpert)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel300319&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
