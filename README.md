@@ -15,4 +15,4 @@ I'm currently working on...
 
 ### Follow me
 [![Telegramm](https://img.shields.io/badge/-Telegram-535B48?style=for-the-badge&logo=telegram&logoColor=AFAFAF)](https://t.me/daniil_agurin)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-535B48?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](www.linkedin.com/in/daniil-agurin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-535B48?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/daniil-agurin/)
